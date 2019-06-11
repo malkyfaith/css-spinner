@@ -1,0 +1,12 @@
+{
+  "name": "cdn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "my-css-spinners": "../.."
+  },
+  "devDependencies": {
+    "serve": "^11.0.1"
+  }
+}
